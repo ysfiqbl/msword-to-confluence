@@ -1,0 +1,17 @@
+{
+  "name": "ms-word-to-confluence-page-automation",
+  "version": "1.0.0",
+  "description": "Import Word Document to Confluence using Selenium",
+  "main": "index.js",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "selenium": "^2.20.0",
+    "selenium-webdriver": "^3.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yusuf Iqbal",
+  "license": "ISC"
+}
